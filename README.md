@@ -12,6 +12,8 @@ A list of conferences done at universities and or other notable places of academ
 
 
 2-6th Global Summit on Artificial Intelligence and Neural Networks (October 15, 2018)
+==========
+
 [See the abstract.](https://drive.google.com/file/d/1pCkync_I2LCPkvFXq-wnUNyxfG8YwVZ0/view)
 
 [See the acceptance message.](https://drive.google.com/file/d/1OJ0cB9Y7vflaB32kuS6SkDCclht2mTbI/view?usp=sharing)
