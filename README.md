@@ -17,3 +17,17 @@ A list of conferences done at universities and or other notable places of academ
 [See the abstract.](https://drive.google.com/file/d/1pCkync_I2LCPkvFXq-wnUNyxfG8YwVZ0/view)
 
 [See the acceptance message.](https://drive.google.com/file/d/1OJ0cB9Y7vflaB32kuS6SkDCclht2mTbI/view?usp=sharing)
+
+
+3-String Theory conference acceptance:
+
+My "Supersymmetric Artificial Neural Network Model" was accepted to a String Theory conference called "String Theory and Cosmology Gordon research conference", where the likes of far smarter persons than myself, like PhD physicists such as "[Hitoshi Murayama](https://en.wikipedia.org/wiki/)" will be speaking;
+
+Acceptance mail: [Google drive video.](https://drive.google.com/file/d/1gtIxjZ2rJ9RbhqdnoyP_8YlFEEWg0FUO/view)
+
+
+Website:
+[Gordon Research Conference Website](https://www.grc.org/string-theory-and-cosmology-conference/2019/)
+
+
+Note: For those who don't know, String Theory is referred to as Science's best theory of explaining the origin of the universe, championed by some of the world's smartest people, including Edward Witten, referred to as the "World's smartest physicist", on par with Newton and Einstein.
