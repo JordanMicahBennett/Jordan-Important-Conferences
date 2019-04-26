@@ -20,7 +20,7 @@ A list of conferences done at universities and or other notable places of academ
 
 
 3-String Theory conference acceptance:
-
+==========
 My "Supersymmetric Artificial Neural Network Model" was accepted to a String Theory conference called "String Theory and Cosmology Gordon research conference", where the likes of far smarter persons than myself, like PhD physicists such as "[Hitoshi Murayama](https://en.wikipedia.org/wiki/)" will be speaking;
 
 Acceptance mail: [Google drive video.](https://drive.google.com/file/d/1gtIxjZ2rJ9RbhqdnoyP_8YlFEEWg0FUO/view)
